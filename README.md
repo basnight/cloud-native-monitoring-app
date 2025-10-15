@@ -15,7 +15,7 @@
 
 # **Step by step Demonstration!**
 
-[![Image]https://github.com/basnight/cloud-native-monitoring-app/blob/main/images/app.png](https://youtu.be/kBWCsHEcWnc)
+[![Image]https://github.com/basnight/cloud-native-monitoring-app/blob/main/app.png]
 
 ## **Prerequisites** !
 
