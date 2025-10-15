@@ -13,6 +13,10 @@
 5. Learn Kubernetes and Create EKS cluster and Nodegroups
 6. Create Kubernetes Deployments and Services using Python!
 
+# **Step by step Demonstration!**
+
+[![Image]https://github.com/basnight/cloud-native-monitoring-app/blob/main/images/app.png](https://youtu.be/kBWCsHEcWnc)
+
 ## **Prerequisites** !
 
 (Things to have before starting the projects)
